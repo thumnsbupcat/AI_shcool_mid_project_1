@@ -1,0 +1,1 @@
+# AI_shcool_mid_project_1
