@@ -1,1 +1,1 @@
-# AI_shcool_mid_project_1
+# AI Shcool 옹조 미드프로젝트 프로젝트 파일입니다
